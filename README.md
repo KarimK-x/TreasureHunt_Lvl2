@@ -1,2 +1,2 @@
 # Welcome to the GitHub Treasure Hunt level 2!
-###  The next clue is hidden in the commit history. Find the commit with the message: Clue: "Next Repo link".
+###  Congratulations on passing level 1. Navigate through the repo to find the clue for Lvl3.
